@@ -1,8 +1,8 @@
 # Amplitude Shift Keying (ASK)
 
-**Name**: Harrishsachin.M
+**Name**: Manoj R
 
-**Register Number**: 212223060088  
+**Register Number**: 212223060153
 
 ---
 
